@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Flutter - Mission 30Days</h1>
   <p>Resources</p>
-  <p>From: 13-05-2020 &nbsp;  To: 12-05-2020</p>
+  <p>From: 13-05-2020 &nbsp;  To: 12-06-2020</p>
   <br>
 </div>
 
