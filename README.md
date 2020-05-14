@@ -13,3 +13,4 @@
 | Day  | Task | Status |
 | :-------------: | :------------- | :----------: |
 | Day 1  | Flutter Installation, Flutter Codes Go through  | Done |
+| Day 2  | Dart Basics  | Done |
