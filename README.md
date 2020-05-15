@@ -14,3 +14,4 @@
 | :-------------: | :------------- | :----------: |
 | Day 1  | Flutter Installation, Flutter Codes Go through  | Done |
 | Day 2  | Dart Basics  | Done |
+| Day 3  | Flutter Rectangle Creation |  Done |
