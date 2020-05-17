@@ -16,3 +16,4 @@
 | Day 2  | Dart Basics  | Done |
 | Day 3  | Flutter Rectangle Creation |  Done |
 | Day 4  | Baking app - Login page design  |  Done |
+| Day 5  | Infinite list view with external package |  Done |
