@@ -18,3 +18,5 @@
 | 3  | Dartpad  |  [Click here to view](https://dartpad.dev/) |
 | 4  | Widget Catlog |  [Click here to view](https://flutter.dev/docs/development/ui/widgets) |
 | 5  | Pub.dev similar like npm  | [Click here to view](https://pub.dev/)  |
+| 6  | Material Widgets | [Click here to view](https://flutter.dev/docs/development/ui/widgets/material) |
+| 7  | AppBar Class  |  [Click here to view](https://api.flutter.dev/flutter/material/AppBar-class.html#leading) |

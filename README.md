@@ -18,3 +18,4 @@
 | Day 4  | Baking app - Login page design  |  Done |
 | Day 5  | Infinite list view with external package |  Done |
 | Day 6  | UserInterface - Intro to Widgets | Done |
+| Day 7  | UserInterface - Material Widgets | Done |
