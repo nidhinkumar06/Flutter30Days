@@ -19,3 +19,4 @@
 | Day 5  | Infinite list view with external package |  Done |
 | Day 6  | UserInterface - Intro to Widgets | Done |
 | Day 7  | UserInterface - Material Widgets | Done |
+| Day 8  | UserInterface - Gesture Detector | Done |
