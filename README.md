@@ -21,3 +21,4 @@
 | Day 7  | UserInterface - Material Widgets | Done |
 | Day 8  | UserInterface - Gesture Detector | Done |
 | Day 9  | UserInterface - Changing widgets to input | Done |
+| Day 10 | UserInterface - Creating Stateless widgets | Done |

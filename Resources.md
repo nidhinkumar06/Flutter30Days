@@ -20,3 +20,5 @@
 | 5  | Pub.dev similar like npm  | [Click here to view](https://pub.dev/)  |
 | 6  | Material Widgets | [Click here to view](https://flutter.dev/docs/development/ui/widgets/material) |
 | 7  | AppBar Class  |  [Click here to view](https://api.flutter.dev/flutter/material/AppBar-class.html#leading) |
+| 8  | Flutter-Widget of the week | [Click here to view](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) |
+| 9  | Flutter-Widgets-101 | [Click here to view](https://www.youtube.com/watch?v=CXedqMlLo7M&list=PL-B0-NEYQT8dMVGTVYKv0sv_NOg--wtx1) |
