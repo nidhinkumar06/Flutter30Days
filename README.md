@@ -23,3 +23,4 @@
 | Day 9  | UserInterface - Changing widgets to input | Done |
 | Day 10 | UserInterface - Creating Stateless widgets | Done |
 | Day 11 | UserInterface - Creating  Stateful widgets | Done |
+| Day 12 | UserInterface - Layouts | Done |
