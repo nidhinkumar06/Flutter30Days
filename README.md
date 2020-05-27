@@ -26,3 +26,4 @@
 | Day 12 | UserInterface - Layouts | Done |
 | Day 13 | UserInterface - Responsive Design | Done |
 | Day 14 | UserInterface - ScreenOrientation-Example | Done |
+| Day 15 | UserInterface - Box Constraints | Done |
