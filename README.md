@@ -28,3 +28,4 @@
 | Day 14 | UserInterface - ScreenOrientation-Example | Done |
 | Day 15 | UserInterface - Box Constraints | Done |
 | Day 16 | UserInterface - Adding Interactivity | Done |
+| Day 17 | UserInterface - Assets and Images | Done |
