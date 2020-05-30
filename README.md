@@ -29,3 +29,4 @@
 | Day 15 | UserInterface - Box Constraints | Done |
 | Day 16 | UserInterface - Adding Interactivity | Done |
 | Day 17 | UserInterface - Assets and Images | Done |
+| Day 18 | UserInterface - Navigation | Done |
