@@ -30,3 +30,4 @@
 | Day 16 | UserInterface - Adding Interactivity | Done |
 | Day 17 | UserInterface - Assets and Images | Done |
 | Day 18 | UserInterface - Navigation | Done |
+| Day 19 | UserInterface - Pass arguments to a named directory | Done |
