@@ -32,3 +32,4 @@
 | Day 18 | UserInterface - Navigation | Done |
 | Day 19 | UserInterface - Pass arguments to a named directory | Done |
 | Day 20 | Flutter Widgets | Done |
+| Day 21 | Flutter Widgets - SilverAppBar | Done |
