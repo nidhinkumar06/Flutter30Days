@@ -34,3 +34,4 @@
 | Day 20 | Flutter Widgets | Done |
 | Day 21 | Flutter Widgets - SilverAppBar | Done |
 | Day 22 | Flutter Widgets | Done |
+| Day 23 | Flutter Widgets | Done |
