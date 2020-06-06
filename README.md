@@ -36,3 +36,4 @@
 | Day 22 | Flutter Widgets | Done |
 | Day 23 | Flutter Widgets | Done |
 | Day 24 | Flutter Widgets | Done |
+| Day 25 | Flutter Web | Done |
