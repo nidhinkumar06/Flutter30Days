@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h1>Flutter - Mission 30Days</h1>
-  <p>Journal of what i have learned, played, created using Flutter for 30 days</p>
-  <p>From: 13-05-2020 &nbsp;  To: 11-06-2020</p>
+  <h1>Flutter - Mission 45Days</h1>
+  <p>Journal of what i have learned, played, created using Flutter for 45 days</p>
+  <p>From: 13-05-2020 &nbsp;  To: 26-06-2020</p>
   <br>
 </div>
 
@@ -42,3 +42,4 @@
 | Day 28 | Flutter Widgets | Done |
 | Day 29 | Flutter Widgets | Done |
 | Day 30 | Flutter Widgets | Done |
+| Day 31 | Flutter Widgets | Done |
