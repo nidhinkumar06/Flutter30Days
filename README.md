@@ -45,3 +45,4 @@
 | Day 31 | Flutter Widgets | Done |
 | Day 32 | Flutter Travel UI | Done |
 | Day 33 | Flutter Widgets | Done |
+| Day 34 | Flutter Widgets | Done |
